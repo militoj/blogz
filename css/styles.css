@@ -9,6 +9,10 @@ body {
     color: red;
 }
 
+.right {
+    float: right;
+}
+
 label {
     display: block;
     font-size: 20px;
