@@ -9,6 +9,11 @@ body {
     color: red;
 }
 
+.post-author {
+    font-style: italic;
+    font-size: 12px;
+}
+
 .right {
     float: right;
 }
